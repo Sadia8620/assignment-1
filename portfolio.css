@@ -33,6 +33,12 @@ margin-right: 100px;
     height: 51px;
     width: 99px;
 }
+nav button:hover{
+    background-color:cornflowerblue;
+}
+.head button:hover{
+    background-color: cornflowerblue;
+}
 nav button a{
     text-decoration: none;
     color: #FFFFFF;
@@ -47,9 +53,7 @@ nav button{
     width: 132 px; 
     border: none;  
 }
-nav button:hover{
-    background-color:bisque;
-}
+
 .head{
     display: flex;
   flex-direction: column;
@@ -124,6 +128,9 @@ nav button:hover{
     font-size: 16px;
     font-weight: bold;
     color: #FFFFFF;
+}
+.action-para button:hover{
+    background-color: cornflowerblue;
 }
 .wc-img{
     display: flex;
@@ -270,6 +277,9 @@ nav button:hover{
     text-decoration: none;
     color: linen;
  }
+ .btn:hover{
+    background-color:cornflowerblue;
+ }
  .ready-img{
     display: flex;
     justify-content: center;
@@ -310,6 +320,9 @@ height: 364.77px;
     font-size: 60px;
     font-weight: bold;
     color: #000000;
+ }
+ .buton button:hover{
+    background-color:cornflowerblue;
  }
   
   .email{
