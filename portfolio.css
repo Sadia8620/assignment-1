@@ -282,4 +282,67 @@ height: 364.77px;
  }
 /* end 5*/
 
+/* start 6 */
+ .get{
+    height: 400px;
+    width: 1140px;
+    display: flex;
+    margin: 0 auto;
+    gap: 200px;
+    background-color: #FFFFFF; 
+    padding-top:71px ;
+     justify-content: space-between;
+ }
+ .input{
+    display: block;
+    height: 300px;
+    width: 497px;
+    font: 18px;
+    background-color: #FFFFFF;
+    margin-left: auto;
+    /* justify-items: left; */
+ }
+ .touch{
+    display: flex;
+    justify-content: space-between;
+    height: 232px;
+    width: 528px;
+    font-size: 60px;
+    font-weight: bold;
+    color: #000000;
+ }
+  
+  .email{
+    height: 70px;
+    width: 497px;
+ }
+ .name{
+    height: 70px;
+    width: 497px;
+ }
+ .massage{
+    height: 80px;
+    width: 497px;
+ }  
+    form{
+    height: 70;
+     width: 497;
+      margin-bottom: 19px;
+      padding: 20px
+    jus
+
+   }
+ .buton button a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    font-weight: bold;
+ }
+ 
+ .buton button{
+background-color: #4E47FF;
+border: none;
+ }
+/* end 6 */
+
 
